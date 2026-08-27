@@ -1,0 +1,19 @@
+{
+  "name": "SO USE \u2014 Stop Over. Start Living.",
+  "short_name": "SO USE",
+  "description": "Stop Over. Start Living.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0D10",
+  "theme_color": "#0A0D10",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
